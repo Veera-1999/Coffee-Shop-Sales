@@ -102,9 +102,9 @@ Some of the major analyses performed include:
 ---
 
 ## 👤 Project Owner
-**Chidrupa Sai Sindhur**  
+**Veera Bhadra Rao Kottala**  
 📍 Hyderabad, Telangana  
-🔗 GitHub Profile: (https://github.com/saisindhur)
+🔗 GitHub Profile: (https://github.com/Veera-1999)
 
 ---
 
